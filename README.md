@@ -35,7 +35,7 @@
 
 renders:
 
-<Img src='https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=exp://expo.io/@hsolvz/react-native-x-bar-example' />
+<Img src='https://image.ibb.co/bG2N0S/Screen_Shot_2018_03_30_at_3_30_17_PM.png' />
 
 ```jsx
 import react, { Component } from 'react'
