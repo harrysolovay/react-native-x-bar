@@ -1,0 +1,51 @@
+{
+  "name": "react-native-x-bar",
+  "version": "0.1.4",
+  "description": "A flexible, lightweight bar component for common UI patterns in React Native",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrysolovay/react-native-x-bar.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "anything",
+    "x",
+    "bar",
+    "anythingbar",
+    "component",
+    "overflow",
+    "overflown",
+    "horizontal",
+    "container",
+    "with",
+    "onPress",
+    "handler",
+    "handling",
+    "flatlist",
+    "scroller",
+    "ios",
+    "android",
+    "UI",
+    "UX",
+    "user",
+    "interface",
+    "experience",
+    "simple"
+  ],
+  "author": "Harry Solovay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harrysolovay/react-native-x-bar/issues"
+  },
+  "homepage": "https://github.com/harrysolovay/react-native-x-bar#readme",
+  "private": false,
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "dependencies": {
+    "onecolor": "^3.0.5"
+  }
+}
