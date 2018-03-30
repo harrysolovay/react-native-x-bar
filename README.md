@@ -127,7 +127,6 @@ See [`example`](example) for the source of the demo app's implementation.
 ### onPress callbacks
 
 * **`containerOnPress`** _(Function)_
-* **`slotOnPress`** _(Function)_
 * **`leftSlotOnPress`** _(Function)_
 * **`rightSlotOnPress`** _(Function)_
 * **`centerSlotOnPress`** _(Function)_
