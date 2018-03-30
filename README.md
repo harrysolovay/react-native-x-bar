@@ -39,7 +39,7 @@ renders:
 
 ```jsx
 import react, { Component } from 'react'
-import { StyleSheet } from 'react-native'
+import { Text, StyleSheet } from 'react-native'
 import XBar from 'react-native-x-bar'
 
 class Example extends { Component } {
