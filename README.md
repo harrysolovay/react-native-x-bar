@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
     borderWidth : 1,
     borderColor : '#ddd',
     backgroundColor : '#fcfcfc',
-    marginTop : 15
+    margin : 15
   },
   slot : {
     paddingTop : 15,
