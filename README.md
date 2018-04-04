@@ -9,7 +9,7 @@
 <p align="center">
   An easy-to-use component for reducing UI/styling complexity<br/>
   <hr>
-  <small style='display : block; text-align : center;'>clean, elegant, extensible bars for almost all use cases</small>
+  <small>––clean, elegant, extensible bars for almost all use cases––</small>
 </p>
 
 <p align="center">
