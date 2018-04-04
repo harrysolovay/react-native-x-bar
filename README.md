@@ -8,7 +8,8 @@
 </h2>
 <p align="center">
   An easy-to-use component for reducing UI/styling complexity<br/>
-  <small>clean, elegant, extensible bars for almost all use cases</small>
+  <hr>
+  <small style='display : block; text-align : center;'>clean, elegant, extensible bars for almost all use cases</small>
 </p>
 
 <p align="center">
