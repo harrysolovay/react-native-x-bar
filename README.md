@@ -7,9 +7,7 @@
   🙅 X Bar
 </h2>
 <p align="center">
-  An easy-to-use component for reducing UI/styling complexity<br/>
-  <hr>
-  <small>––clean, elegant, extensible bars for almost all use cases––</small>
+  An easy-to-use component for reducing UI/styling complexity (providing clean, elegant, extensible bars for almost all use cases)
 </p>
 
 <p align="center">
