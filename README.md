@@ -24,7 +24,7 @@
 * Support for horizontally overflown "center"
 * 8 layouts X 3 slots X 4 centers
 * onPress handling for individual slots
-* onPress handling for container (can coexist overflown center panning)
+* onPress handling for container (can coexist with overflown center panning)
 
 ## Installation
 
@@ -42,7 +42,7 @@ import react, { Component } from 'react'
 import { Text, StyleSheet } from 'react-native'
 import XBar from 'react-native-x-bar'
 
-class Example extends { Component } {
+class Example extends Component {
   render() {
     return (
       <XBar
