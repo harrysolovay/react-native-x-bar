@@ -412,7 +412,7 @@ I'm currently working on an algorithm that will handle even non-sequential group
 
 ## Overflowing slots
 
-Overflowing (making a slot horizontally scrollable) can be really useful when you need to display information within the same component, but don't want to use up screen real-estate that could go to better use. Overflowing slots is super easy with XBar. Let's take a look at a modified version of the example from earlier.
+Overflowing (making a slot horizontally scrollable) can be really useful when you need to display a lot of information within the same component, but don't want to use up screen real-estate that could go to better use. Overflowing slots is super easy with XBar. Let's take a look at a modified version of the example from earlier.
 
 ````jsx
 <XBar
