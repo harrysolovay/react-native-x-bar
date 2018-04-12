@@ -8,13 +8,13 @@
 
 
 
-![image-20180411231718933](/var/folders/lj/xwglmz2s5d3fcr65vmk2j8w80000gn/T/abnerworks.Typora/image-20180411231718933.png)
+![image-20180411231718933](./readme-assets/screen.png)
 
 
 
 <p align='center'>
 
-​	<img src='http://harrysolovay.com/assets/react-native-x-bar/expo-demo-code.png'>
+​	<img src='./readme-assets/expo-demo-code.png'>
 
 ​	<a href='https://expo.io/@hsolvz/react-native-x-bar-example'>Try out the demo app with Expo Client</a>
 
@@ -80,7 +80,7 @@ import XBar from 'react-native-x-bar'
 
 
 
-4. **Pick a layout ([click here for a full list of options](#link-elsewhere)):**
+4. **Pick a layout ([click here for a full list of options](#layouts)):**
 
 ```jsx
 <XBar
@@ -238,7 +238,7 @@ Each slot can be passed several props: children, overflow, style, onPress and ac
 />
 ````
 
-![image-20180411233559057](/var/folders/lj/xwglmz2s5d3fcr65vmk2j8w80000gn/T/abnerworks.Typora/image-20180411233559057.png)
+![image-20180411233559057](./readme-assets/individual-slot-example.gif)
 
 
 
@@ -338,7 +338,7 @@ With a given layout, we may run into a situation where we would like to position
 
 Let's say we want to create the following social media card heading component:
 
-![image-20180411232843981](/var/folders/lj/xwglmz2s5d3fcr65vmk2j8w80000gn/T/abnerworks.Typora/image-20180411232843981.png)
+![image-20180411232843981](./readme-assets/grouping-slots-example.png)
 
 
 
