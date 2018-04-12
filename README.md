@@ -1,24 +1,20 @@
 
 
-# React Native X Bar
+<h1 align='center'>React Native X Bar</h1>
 
-#### An easy-to-use bar component for reducing UI/styling complexity
+<h4 align='center' style="padding-top : 10px">An easy-to-use bar component for reducing UI/styling complexity</h4>
 
-##### Clean, elegant, extensible bars for almost all use cases 🎩🐰
-
-
-
-![image-20180411231718933](./readme-assets/screen.png)
+<h5 align='center' style='margin-top : -10px;'>Clean, elegant, extensible bars for almost all use cases 🎩🐰</h5>
 
 
+<div style="text-align:center;"><img style="padding-top : 10px" src ="./readme-assets/screen.png" /></div>
+<div style="text-align:center; margin-top : 20px;">
+  <img src ="./readme-assets/expo-demo-code.png" />
+</div>
+<div style="text-align:center; margin-top : 10px;">
+  <a href='https://expo.io/@hsolvz/react-native-x-bar-example'>Try out the demo app<br>with Expo Client</a>
+</div>
 
-<p align='center'>
-
-​	<img src='./readme-assets/expo-demo-code.png'>
-
-​	<a href='https://expo.io/@hsolvz/react-native-x-bar-example'>Try out the demo app with Expo Client</a>
-
-</p>
 
 ## Overview
 
