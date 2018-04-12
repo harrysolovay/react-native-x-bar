@@ -2,9 +2,9 @@
 
 <h1 align='center'>React Native X Bar</h1>
 
-<h4 align='center' style="padding-top : 10px">An easy-to-use bar component for reducing UI/styling complexity</h4>
+<h3 align='center' style="padding-top : 10px">An easy-to-use bar component for reducing UI/styling complexity</h3>
 
-<h5 align='center' style='margin-top : -10px;'>Clean, elegant, extensible bars for almost all use cases 🎩🐰</h5>
+<h4 align='center' style='margin-top : -10px;'>Clean, elegant, extensible bars for almost all use cases 🎩🐰</h4>
 
 <br>
 <p align="center" >
@@ -123,7 +123,7 @@ import XBar from 'react-native-x-bar'
 - [adding slots](#adding-slots)
 - [layouts](#layouts)
 - [configuring an individual slot](#configuring-an-individual-slot)
-- [configuring all slots](#configuring-all-slot)
+- [configuring all slots](#configuring-all-slots)
 - [configuring the container](#configuring-the-container)
 - [grouping slots](#grouping-slots)
 - [overflowing slots](#overflowing-slots)

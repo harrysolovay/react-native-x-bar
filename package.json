@@ -1,6 +1,6 @@
 {
   "name": "react-native-x-bar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A flexible, lightweight bar component for common UI patterns in React Native",
   "main": "src/index.js",
   "repository": "https://github.com/harrysolovay/react-native-x-bar.git",
