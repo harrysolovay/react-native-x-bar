@@ -6,15 +6,16 @@
 
 <h5 align='center' style='margin-top : -10px;'>Clean, elegant, extensible bars for almost all use cases 🎩🐰</h5>
 
-
+<br>
 <p align="center" >
     <img src="./readme-assets/screen.png" width="260" height="510" />
-
 </p>
-
-<div style="text-align:center; margin-top : 20px;">
-  <img src ="./readme-assets/expo-demo-code.png" />
-</div>
+<br>
+<p align="center" >
+    <img src="./readme-assets/expo-demo-code.png" width="200" height="200" />
+    <br>
+    <a href='https://expo.io/@hsolvz/react-native-x-bar-example'>Try out the demo app<br>with Expo Client</a>
+</p>
 
 <div style="text-align:center; margin-top : 10px;">
   <a href='https://expo.io/@hsolvz/react-native-x-bar-example'>Try out the demo app<br>with Expo Client</a>
