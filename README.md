@@ -128,7 +128,7 @@ import XBar from 'react-native-x-bar'
 - [grouping slots](#grouping-slots)
 - [overflowing slots](#overflowing-slots)
 - [advanced onPress handling](#advanced-onpress-handling)
-- [Misc.](#miscellaneous)
+- [misc.](#miscellaneous)
 
 
 
