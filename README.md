@@ -13,13 +13,9 @@
 <br>
 <p align="center" >
     <img src="./readme-assets/expo-demo-code.png" width="200" height="200" />
-    <br>
+    <br><br>
     <a href='https://expo.io/@hsolvz/react-native-x-bar-example'>Try out the demo app<br>with Expo Client</a>
 </p>
-
-<div style="text-align:center; margin-top : 10px;">
-  <a href='https://expo.io/@hsolvz/react-native-x-bar-example'>Try out the demo app<br>with Expo Client</a>
-</div>
 
 
 ## Overview
