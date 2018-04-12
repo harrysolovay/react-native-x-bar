@@ -7,10 +7,15 @@
 <h5 align='center' style='margin-top : -10px;'>Clean, elegant, extensible bars for almost all use cases 🎩🐰</h5>
 
 
-<div style="text-align:center;"><img style="padding-top : 10px" src ="./readme-assets/screen.png" /></div>
+<p align="center" >
+    <img src="./readme-assets/screen.png" width="260" height="510" />
+
+</p>
+
 <div style="text-align:center; margin-top : 20px;">
   <img src ="./readme-assets/expo-demo-code.png" />
 </div>
+
 <div style="text-align:center; margin-top : 10px;">
   <a href='https://expo.io/@hsolvz/react-native-x-bar-example'>Try out the demo app<br>with Expo Client</a>
 </div>
