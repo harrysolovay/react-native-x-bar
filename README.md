@@ -128,7 +128,7 @@ import XBar from 'react-native-x-bar'
 - [grouping slots](#grouping-slots)
 - [overflowing slots](#overflowing-slots)
 - [advanced onPress handling](#advanced-onpress-handling)
-- [etc.](#etc.)
+- [Misc.](#miscellaneous)
 
 
 
@@ -482,7 +482,7 @@ There's one problem with this implimentation… which methods fire first? This i
 
 
 
-## ETC.
+## Miscellaneous
 
 Thank you for checking out (maybe even building software with) X Bar. If you have any bug reports or feature ideas, please go ahead and file an issue. If you have any other questions, comments, etc., please reach out to me at harrysolovay@gmail.com.
 
