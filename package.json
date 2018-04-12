@@ -1,0 +1,17 @@
+{
+  "name": "react-native-x-bar",
+  "version": "1.0.1",
+  "description": "A flexible, lightweight bar component for common UI patterns in React Native",
+  "main": "src/index.js",
+  "repository": "https://github.com/harrysolovay/react-native-x-bar.git",
+  "author": "Harry Solovay",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "dependencies": {
+    "onecolor": "^3.0.5"
+  }
+}
