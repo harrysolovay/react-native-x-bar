@@ -3719,9 +3719,9 @@ react-native-vector-icons@4.5.0:
     prop-types "^15.5.10"
     yargs "^8.0.2"
 
-react-native-x-bar@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/react-native-x-bar/-/react-native-x-bar-1.0.1.tgz#ec997093f63a289d7164a7e62731c029ebc51c66"
+react-native-x-bar@1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/react-native-x-bar/-/react-native-x-bar-1.0.3.tgz#cc8e8eefbfb6421c3895b38172ad1a85d8f6a51a"
   dependencies:
     onecolor "^3.0.5"
 

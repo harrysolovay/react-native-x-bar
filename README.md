@@ -187,7 +187,7 @@ Depending on what other props you're using, there might not be a need for the la
 
 | layout options             | Appearance                                                   |
 | -------------------------- | ------------------------------------------------------------ |
-| null <undefined>           | slots will float/align to the left                           |
+| null <undefined>           | slots will float/align slots to the left                           |
 | 'absolute center' <String> | slots[1] or group at [1] relative to other slots and groups will be centered absolutely |
 | 'space between' <String>   | will equally distribute available horizontal space between slots |
 | 'space equal' <String>     | the available horizontal space will be divided by the number of slots – each slot will be centered in a view that takes up that calulated width |
@@ -397,13 +397,13 @@ If you want to create an XBar with **multiple slot groups**, set groups to an ar
 good:
 
 ````jsx
-groups={[ [1, 2], [6, 8], [9, 10] ]}
+groups={[ [1, 2], [6, 7, 8], [9, 10] ]}
 ````
 
 bad:
 
 ````jsx
-groups={[ [6, 8], [1, 2], [9, 10] ]}
+groups={[ [6, 7, 8], [1, 2], [9, 10] ]}
 ````
 
 I'm currently working on an algorithm that will handle even non-sequential group definitions (for the time being, I hope this isn't too much of a challenge 😉)

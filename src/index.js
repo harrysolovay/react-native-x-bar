@@ -451,6 +451,7 @@ const XBar = ({
      * if entered only 1 group, no need for the embedded array –
      * can simply reassign self into a new array
      */
+    
     let is2D = false
     groups.forEach((group) => {
       if(Array.isArray(group)) {
