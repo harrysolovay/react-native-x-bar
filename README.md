@@ -495,6 +495,6 @@ Big shout out to...
 * [William Barnes](https://www.linkedin.com/in/william-barnes-7296543/)
 * [Daniel Shaffer](https://github.com/danielshaffer)
 
-This library has been released under the [MIT license](../blob/master/LICENSE)
+This library has been released under the [MIT license](https://mit-license.org/)
 
 **SO DO WHATEVER THE $%#@ YOU WANT WITH IT!!!**
